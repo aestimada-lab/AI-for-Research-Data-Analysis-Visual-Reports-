@@ -1,4 +1,3 @@
-# AI-for-Research-Data-Analysis-Visual-Reports-
 # Automated Visual Data Report  
 ## Regional Development Analytics Dashboard (Mindanao Focus)
 
